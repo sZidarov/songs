@@ -1,0 +1,3 @@
+# songs
+
+a program that recieves input array. The first element is the number of given songs. The last element is the type list which is printed in the end, if the last element is "all", the program prints the songs of all types. First the program defines a class for creating every song, then it is put in an object. Every object is put in one array. After every song is defined as an object containig its type, name and time, the program filters by type list and prints as asked.
